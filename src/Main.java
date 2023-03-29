@@ -5,7 +5,7 @@ public class Main {
         company.owner="asdd";
         company.year=1995;
         software soft=new software();
-        soft.softwareName="sdfgf";
+        soft.softwareName="sdfgfdfgh";
         soft.yearmade=2022;
 
     }
